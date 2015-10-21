@@ -14,5 +14,7 @@
   <files>
     <file src="bin\Release\itextsharp.dll" target="lib\net40" />
     <file src="bin\Release\bccrypto.dll" target="lib\net40" />
+    <file src="bin\Release\itextsharp.xml" target="lib\net40" />
+    <file src="bin\Release\bccrypto.xml" target="lib\net40" />
   </files>
 </package>
